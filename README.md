@@ -1,2 +1,2 @@
-# WebCource
+# WebCourse
 Home tasks 
